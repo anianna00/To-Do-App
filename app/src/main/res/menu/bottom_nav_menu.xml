@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_completed"
+        android:title="Completed"
+        android:icon="@drawable/ic_action_completed"/>
+    <item
+        android:id="@+id/nav_home"
+        android:title="@string/home_title"
+        android:icon="@drawable/ic_action_home"/>
+    <item
+        android:id="@+id/nav_user"
+        android:title="@string/user_title"
+        android:icon="@drawable/ic_action_user"/>
+</menu>
